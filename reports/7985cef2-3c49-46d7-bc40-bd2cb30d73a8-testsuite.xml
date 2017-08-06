@@ -1,0 +1,25 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1502014012677" stop="1502014012683">
+  <name>test_samle</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1502014012677" status="passed" stop="1502014012683">
+      <name>TestMyFunc.test_my_site</name>
+      <attachments>
+        <attachment source="33699ed8-6901-48c0-8c74-5ec3e6635e85-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9108-MainThread"/>
+        <label name="host" value="LAPTOP-A7TGOPNK"/>
+      </labels>
+      <steps>
+        <step start="1502014012683" status="passed" stop="1502014012683">
+          <name>MyStep</name>
+          <title>MyStep</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
